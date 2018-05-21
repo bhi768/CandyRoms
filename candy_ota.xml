@@ -8,10 +8,6 @@
             	id="gapps"
             	title="Gapps"
             	description="Download latest Open GApps">https://opengapps.org/</GappsUrl> 
-              <MidoFirmwareUrl
-                id="MidoFirmware"
-                title="Mido Firmware"
-                description="Mido Firmware Folder">https://androidfilehost.com/?fid=890278863836286146</MidoFirmwareUrl>
         </mido>
     </Stable>
 </SlimOTA>
